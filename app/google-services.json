@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605721030382",
+    "project_id": "carmaintenance-a835b",
+    "storage_bucket": "carmaintenance-a835b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605721030382:android:5f8b454d3d2484c5474dff",
+        "android_client_info": {
+          "package_name": "com.example.carmaintainf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeVmIjsgj5DToKr1pVEqrrAsI_kfzr_9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
