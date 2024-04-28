@@ -19,8 +19,7 @@ public class ownerActivity extends AppCompatActivity {
         updatebutton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                setContentView(R.layout.carinformation); // Charge une autre mise en page XML
-                // Vous pouvez interagir avec les éléments de la nouvelle mise en page ici
+                setContentView(R.layout.carinformation);
             }
         });
 

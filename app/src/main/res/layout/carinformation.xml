@@ -54,7 +54,7 @@
         android:ems="10"
         android:inputType="text"
         android:text=""
-        tools:layout_editor_absoluteX="190dp"
+        tools:layout_editor_absoluteX="194dp"
         tools:layout_editor_absoluteY="197dp" />
 
     <TextView
@@ -85,11 +85,11 @@
         tools:layout_editor_absoluteY="290dp" />
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/buttonupdatecarinfo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="enregister"
-        tools:layout_editor_absoluteX="121dp"
+        tools:layout_editor_absoluteX="119dp"
         tools:layout_editor_absoluteY="401dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -29,6 +29,10 @@
             android:exported="true"> <!-- Ajout de l'attribut android:exported -->
         </activity>
 
+        <activity android:name=".AddCarActivity"
+            android:exported="true"> <!-- Ajout de l'attribut android:exported -->
+        </activity>
+
     </application>
 
 
